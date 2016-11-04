@@ -2,9 +2,9 @@
 
 40223206 
 
-網誌: https://s40223206.github.io/
+網誌:https://s40223206.github.io/2016fallcadp_hw/#/
 
-Blog:
+Blog:https://s40223206.github.io/2016fallcadp_hw/blog/index.html
 
 Vimeo: https://vimeo.com/user41092742
 
