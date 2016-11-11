@@ -31,29 +31,6 @@
 <v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
-<v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
-<v t="amd.20161004104641.2"><vh>計算機程式在教什麼?</vh></v>
-</v>
-<v t="yen.20161011155543.1" a="E"><vh>主題教學內容</vh>
-<v t="yen.20161011155543.2"><vh>計算機程式在教什麼?</vh></v>
-</v>
-<v t="yen.20161011115740.1" a="E"><vh>相關課程</vh>
-<v t="yen.20161011115740.2"><vh>計算機程式系列課程</vh></v>
-</v>
-<v t="amd.20161004105131.1" a="E"><vh>創造力</vh>
-<v t="amd.20161004105131.2"><vh>何謂創造力?</vh></v>
-</v>
-<v t="yen.20161011114704.1" a="E"><vh>創造力</vh>
-<v t="yen.20161011114704.2"><vh>何謂創造力?</vh></v>
-</v>
-<v t="yen.20161011121637.1"><vh>所謂自學</vh>
-<v t="yen.20161011121637.2"><vh>自學的訓練</vh></v>
-</v>
-<v t="amd.20161004105716.1"><vh>執行力</vh>
-<v t="amd.20161004105716.2"><vh>高效執行力</vh></v>
-</v>
-</v>
 <v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
 <v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
 <v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
@@ -65,7 +42,7 @@
 <v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
+<v t="yen.20161011122932.1" a="E"><vh>自學力訓練</vh>
 <v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
 <v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
 </v>
@@ -79,7 +56,7 @@
 <v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
 </v>
 </v>
-<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
+<v t="yen.20161011125115.1" a="E"><vh>執行力訓練</vh>
 <v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
 <v t="yen.20161016011920.2"><vh>程式專題</vh></v>
 </v>
@@ -96,44 +73,44 @@
 <v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
 </v>
 </v>
-<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
+<v t="yen.20161011143808.1" a="E"><vh>協同力訓練</vh>
 <v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
 <v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
 </v>
-<v t="yen.20161011144113.1"><vh>倉儲子模組串連</vh>
+<v t="yen.20161011144113.1" a="E"><vh>倉儲子模組串連</vh>
 <v t="yen.20161011144113.2"><vh>學員作業網頁定版</vh></v>
 </v>
-<v t="yen.20161011144715.1"><vh>倉儲版本拉回請求</vh>
+<v t="yen.20161011144715.1" a="E"><vh>倉儲版本拉回請求</vh>
 <v t="yen.20161011144715.2"><vh>Github 倉儲拉回請求</vh></v>
 </v>
 </v>
-<v t="yen.20161011145156.1"><vh>開始學 Python</vh>
+<v t="yen.20161011145156.1" a="E"><vh>開始學 Python</vh>
 <v t="yen.20161011145156.2" a="E"><vh>Python 基本語法</vh>
 <v t="yen.20161011145156.3"><vh>Python3 語法</vh></v>
 </v>
 <v t="yen.20161011145156.4" a="E"><vh>Python 迴圈</vh>
 <v t="yen.20161011145156.5"><vh>for 迴圈用法</vh></v>
 </v>
-<v t="yen.20161011145156.6"><vh>Python 函式</vh>
+<v t="yen.20161011145156.6" a="E"><vh>Python 函式</vh>
 <v t="yen.20161011145156.7"><vh>函式用法</vh></v>
 </v>
-<v t="yen.20161011145755.1"><vh>Python 數列</vh>
+<v t="yen.20161011145755.1" a="E"><vh>Python 數列</vh>
 <v t="yen.20161011145755.2"><vh>數列用法</vh></v>
 </v>
-<v t="yen.20161011145952.1"><vh>分組程式</vh>
+<v t="yen.20161011145952.1" a="E"><vh>分組程式</vh>
 <v t="yen.20161011145952.2"><vh>分組程式內容</vh></v>
 </v>
-<v t="yen.20161011150316.1"><vh>猜數字遊戲</vh>
+<v t="yen.20161011150316.1" a="E"><vh>猜數字遊戲</vh>
 <v t="yen.20161011150316.2"><vh>遊戲邏輯</vh></v>
 </v>
-<v t="yen.20161011150126.1"><vh>2 D 繪圖</vh>
+<v t="yen.20161011150126.1" a="E"><vh>2 D 繪圖</vh>
 <v t="yen.20161011150126.2"><vh>Python 網際繪圖</vh></v>
 </v>
-<v t="yen.20161011150901.1"><vh>2 D 動畫</vh>
+<v t="yen.20161011150901.1" a="E"><vh>2 D 動畫</vh>
 <v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
 </v>
 </v>
-<v t="yen.20161016012809.1"><vh>各式內容引用範例</vh>
+<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
 <v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -163,15 +140,17 @@
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="leo.20161111102827.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="leo.20161111102827.2" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="leo.20161111102827.3"><vh>@edit pages_1.md</vh></v>
+</v>
+</v>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
+<v t="leo.20161111114140.1"><vh>@edit 20161111-1.md</vh></v>
+<v t="leo.20161111114421.1"><vh>@edit 20161111-2.md</vh></v>
+<v t="leo.20161111114507.1"><vh>@edit 20161111-3.md</vh></v>
 </v>
-</v>
-</v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
-<v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
@@ -208,8 +187,6 @@ print("hello")
 
 </t>
 <t tx="amd.20160106093454.1"></t>
-<t tx="amd.20160106094754.1"></t>
-<t tx="amd.20160106094829.1"></t>
 <t tx="amd.20160106095324.1"></t>
 <t tx="amd.20160727114506.1"></t>
 <t tx="amd.20160921213353.1"></t>
@@ -303,73 +280,18 @@ print("hello")
 <t tx="amd.20161004095719.2"># 2016Fall 計算機程式課程
 
 ### 虎科大機械設計工程系
-
+### 四設四乙 40223206 黃怡瑄
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [黃怡瑄](https://s40223206.github.io/2016fallcadp_hw/blog/index.html)
 &lt;/small&gt;
 
-[甲班計算機程式課程網誌](blog/index.html)
+[作業網誌](https://s40223206.github.io/2016fallcadp_hw/#/)
 
-[乙班計算機程式課程網誌](https://mdecourse.github.io/2016fallcpb/blog)
+[Blog](http://chiamingyen.github.io/kmolab/blog/)
 
-[計算機程式教學影片](https://vimeo.com/user24079973)
+[Vimeo](https://vimeo.com/user41092742)
 
-[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
-</t>
-<t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004104641.2"># 計算機程式在教什麼?
-
-## 創造力
-## 表達力
-以及
-## 協同力
-
-</t>
-<t tx="amd.20161004104820.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004105131.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004105131.2"># 何謂創造力?
-
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;自學&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
-
-</t>
-<t tx="amd.20161004105716.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004105716.2"># 高效執行力
-
-## 用對的方法
-## 在對的時機
-## 找對的人
-## 作對的事
-
+[OnShape](https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)
 
 </t>
 <t tx="leo.20151212173315.1"></t>
@@ -478,58 +400,8 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
-<t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011114704.2"># 何謂創造力?
-
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;自學-&gt;&lt;span style="color:#FFFF00"&gt;不一定都要別人教&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;可執行流程-&gt;展現&lt;span style="color:#FFFF00"&gt;執行力&lt;/span&gt;
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
-
-</t>
-<t tx="yen.20161011115740.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011115740.2"># 計算機程式系列課程
-
-## 網際內容管理
-## 電腦輔助設計實習
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 協同產品設計實習
-也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
-
-</t>
-<t tx="yen.20161011121637.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011121637.2"># 自學的訓練
-
-## 學員必須自己有學習動機
-## 能消化中英文資料
-## 從中體會學習的意義
-
-
-</t>
+<t tx="leo.20161111102827.1"></t>
+<t tx="leo.20161111102827.2"></t>
 <t tx="yen.20161011122601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -539,14 +411,10 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011122601.2"># 自學 Python3
-
-[Python3 程式範例](https://github.com/mdecourse/2016fallcp/blob/master/python3program.py)
-### 在哪裡執行?
-### 如何執行?
-### 如何寫心得?
-### 如何錄製操作過程?
-</t>
+<t tx="yen.20161011122601.2">###四連桿機構
+練習影片
+&lt;iframe src="https://player.vimeo.com/video/190195516" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190195516"&gt;2016-11-04_10-42-04&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20161011122932.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -796,23 +664,6 @@ Brython (Javascript): https://www.brython.info/
 ####猜顏色遊戲
 ####網際對戰遊戲
 </t>
-<t tx="yen.20161011155543.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011155543.2"># 計算機程式在教什麼?
-
-## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
-## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
-&lt;span style="color:#00FF80"&gt;以及&lt;/span&gt;
-## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
-
-</t>
 <t tx="yen.20161016004633.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -826,13 +677,15 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161016004633.5"># 計算機程式課程規劃
+<t tx="yen.20161016004633.5">###OnShape
+###AN ANGLE BRACKET
+###[繪圖步驟](http://solvespace.com/bracket.pl)
+###[繪圖檔案](https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc)
+###繪圖影片
+&lt;iframe src="https://player.vimeo.com/video/189256831" width="640" height="460" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/189256831"&gt;20161028  onshape 練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
-## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
-## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
-
-</t>
+###使用方便，不需攜帶硬體即可使用</t>
 <t tx="yen.20161016010643.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -842,14 +695,7 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161016010643.2">## 下載 miniconda 可攜環境
-
-  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
-  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
-  * start.bat 啟動, stop.bat 關閉
-  * 建議存在隨身硬碟中使用
-
-
+<t tx="yen.20161016010643.2">
 </t>
 <t tx="yen.20161016010719.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1011,16 +857,17 @@ make.start()
 
 						
 </t>
-<t tx="yen.20161016023122.2"># 投影片快捷鍵
+<t tx="yen.20161016023122.2">###繪圖練習
+###SolveSpace
+###AN ANGLE BRACKET
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+[繪圖步驟](http://solvespace.com/bracket.pl)
 
-</t>
+繪圖練習 無聲
+&lt;iframe src="https://player.vimeo.com/video/188245352" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188245352"&gt;2016-10-21_11-32-37&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+###使用方便，容量小攜帶方便</t>
 <t tx="yen.20161022111056.1">@language python
 import os
 import subprocess
