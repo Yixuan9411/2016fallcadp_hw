@@ -26,13 +26,13 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
+<v t="yen.20161016023122.1"><vh>快捷鍵</vh>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20161016004633.1" a="E"><vh>CP 課程倉儲</vh>
+<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
 <v t="yen.20161016004633.4" a="E"><vh>課程時段與規劃</vh>
 <v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
@@ -76,7 +76,7 @@
 <v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
 </v>
 </v>
-<v t="yen.20161011143808.1" a="E"><vh>協同力訓練</vh>
+<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
 <v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
 <v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
 </v>
@@ -549,11 +549,12 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011145156.3"># Python3 語法
+<t tx="yen.20161011145156.3">### W16
+###Onshape繪圖練習
 
-####print()
-####input()
-####變數名稱與關鍵字
+###繪圖資料參考:(http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)
+
+###Onshape繪圖練習:(https://cad.onshape.com/documents?filter=created-by-me&amp;column=modifiedAt&amp;order=desc)
 </t>
 <t tx="yen.20161011145156.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
