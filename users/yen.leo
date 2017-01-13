@@ -58,7 +58,7 @@
 <v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
 </v>
 </v>
-<v t="yen.20161011125115.1" a="E"><vh>執行力訓練</vh>
+<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
 <v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
 <v t="yen.20161016011920.2"><vh>程式專題</vh></v>
 </v>
@@ -418,13 +418,7 @@ DEFAULT_DATE = 'fs'</t>
 &lt;iframe src="https://player.vimeo.com/video/199272956" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199272956"&gt;W12 -2&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
-<t tx="leo.20170113135914.1">### W12 
-### Solvespace 繪圖練習 零件2
-###繪圖影片
-
-&lt;iframe src="https://player.vimeo.com/video/199272956" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/199272956"&gt;W12 -2&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
+<t tx="leo.20170113135914.1"></t>
 <t tx="yen.20161011122601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -450,14 +444,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011122957.2">### W12 
-### Solvespace 繪圖練習 零件1
-###繪圖影片
-
-&lt;iframe src="https://player.vimeo.com/video/199272864" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/199272864"&gt;W12&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-</t>
+<t tx="yen.20161011122957.2"></t>
 <t tx="yen.20161011123951.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -467,12 +454,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011123951.2">### W14
-###連桿機構
-###繪圖影片
-&lt;iframe src="https://player.vimeo.com/video/199273040" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/199273040"&gt;W14 連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
+<t tx="yen.20161011123951.2"></t>
 <t tx="yen.20161011124118.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -498,11 +480,12 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011125115.3"># 課程分組排座位
+<t tx="yen.20161011125115.3">### W12 
+### Solvespace 繪圖練習 零件2
+###繪圖影片
 
-* 想像一下分組流程
-* 請畫出流程圖
-* 如何進行最好?
+&lt;iframe src="https://player.vimeo.com/video/199272956" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199272956"&gt;W12 -2&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161011143808.1">&lt;section&gt;
 @others
@@ -516,11 +499,11 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011143808.3"># Github 倉儲網頁
-
-####建立個人 Github 網頁 (帳號.github.io)
-####建立個人課程作業網頁 (納入投影片與網誌架構)
-####組長建立分組的評量網頁 (納入投影片與網誌架構)
+<t tx="yen.20161011143808.3">### W14
+###連桿機構
+###繪圖影片
+&lt;iframe src="https://player.vimeo.com/video/199273040" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199273040"&gt;W14 連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161011144113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -729,12 +712,12 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161016011920.2"># 計算機程式專題
+<t tx="yen.20161016011920.2">### W12 
+### Solvespace 繪圖練習 零件1
+###繪圖影片
 
-* 如何進行上課分組與排座位?
-* 如何寫一個猜數字遊戲?
-* 如何繪製 2D 靜態圖?
-* 如何製作一個簡單的網際遊戲?
+&lt;iframe src="https://player.vimeo.com/video/199272864" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199272864"&gt;W12&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161016012215.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
