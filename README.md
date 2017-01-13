@@ -4,7 +4,7 @@
 
 網誌:https://s40223206.github.io/2016fallcadp_hw/#/
 
-Blog:http://chiamingyen.github.io/kmolab/blog/
+Blog:https://s40223206.github.io/2016fallcadp_hw/blog/index.html
 
 Vimeo: https://vimeo.com/user41092742
 

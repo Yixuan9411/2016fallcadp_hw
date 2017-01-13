@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1"><vh>@settings</vh>
+<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
 <v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -18,7 +18,7 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
@@ -31,12 +31,13 @@
 <v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
-<v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
+<v t="yen.20161016004633.1" a="E"><vh>CP 課程倉儲</vh>
+<v t="yen.20161016004633.4" a="E"><vh>課程時段與規劃</vh>
 <v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
-<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
+<v t="yen.20161016010643.1" a="E"><vh>下載 miniconda 可攜環境</vh>
 <v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
+<v t="leo.20170113135406.1"><vh>下載可攜程式環境</vh></v>
 </v>
 <v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
 <v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
@@ -48,6 +49,7 @@
 </v>
 <v t="yen.20161011122957.1" a="E"><vh>Python 執行環境</vh>
 <v t="yen.20161011122957.2"><vh>在哪裡執行?</vh></v>
+<v t="leo.20170113135914.1"><vh>在哪裡執行?</vh></v>
 </v>
 <v t="yen.20161011123951.1" a="E"><vh>Python 解譯器</vh>
 <v t="yen.20161011123951.2"><vh>Python 解譯器</vh></v>
@@ -146,8 +148,10 @@
 </v>
 </v>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161111114140.1"><vh>@edit 20161111-1.md</vh></v>
+<v t="leo.20170113140353.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20170113141111.1"><vh>@edit 20161113.md</vh></v>
+<v t="leo.20170113140400.1"><vh>@edit 20161112.md</vh></v>
 <v t="leo.20161111114421.1"><vh>@edit 20161111-2.md</vh></v>
 <v t="leo.20161111114507.1"><vh>@edit 20161111-3.md</vh></v>
 </v>
@@ -287,7 +291,7 @@ Created by [黃怡瑄](https://s40223206.github.io/2016fallcadp_hw/blog/index.ht
 
 [作業網誌](https://s40223206.github.io/2016fallcadp_hw/#/)
 
-[Blog](http://chiamingyen.github.io/kmolab/blog/)
+[Blog](https://s40223206.github.io/2016fallcadp_hw/blog/)
 
 [Vimeo](https://vimeo.com/user41092742)
 
@@ -402,6 +406,20 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161111102827.1"></t>
 <t tx="leo.20161111102827.2"></t>
+<t tx="leo.20170113135406.1">### W12 
+### Solvespace 繪圖練習 零件2
+###繪圖影片
+
+&lt;iframe src="https://player.vimeo.com/video/199272956" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199272956"&gt;W12 -2&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170113135914.1">### W12 
+### Solvespace 繪圖練習 零件2
+###繪圖影片
+
+&lt;iframe src="https://player.vimeo.com/video/199272956" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199272956"&gt;W12 -2&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="yen.20161011122601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -427,11 +445,13 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011122957.2"># 在哪裡執行?
+<t tx="yen.20161011122957.2">### W12 
+### Solvespace 繪圖練習 零件1
+###繪圖影片
 
-### 單機操作系統中 (近端)
-### 單機連結到遠端主機中 (遠端)
-### 瀏覽器中 (網際端)
+&lt;iframe src="https://player.vimeo.com/video/199272864" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199272864"&gt;W12&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
 </t>
 <t tx="yen.20161011123951.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -442,19 +462,11 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="yen.20161011123951.2"># Python 解譯器
-
-CPython: https://www.python.org/
-
-(Anaconda: https://www.continuum.io/downloads)
-    
-IronPython (.NET): http://ironpython.net/
-
-Jython (Java): http://www.jython.org/
-
-Pypy (Python): http://pypy.org/
-
-Brython (Javascript): https://www.brython.info/
+<t tx="yen.20161011123951.2">### W14
+###連桿機構
+###繪圖影片
+&lt;iframe src="https://player.vimeo.com/video/199273040" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199273040"&gt;W14 連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user41092742"&gt;Yixuan&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161011124118.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -465,12 +477,10 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161011124118.2"># Python 2 或 3?
-
-### 業界大部份仍以 2.7 版為主
-但是, 若沒有特別約束
-### 建議直接學習 Python3
-</t>
+<t tx="yen.20161011124118.2">### W16
+###Onshape 繪圖練習
+###繪圖檔案(http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)
+###Onshape繪圖檔(https://cad.onshape.com/documents?filter=my-documents&amp;column=modifiedAt&amp;order=desc&amp;viewMode=0)</t>
 <t tx="yen.20161011125115.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -695,8 +705,7 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161016010643.2">
-</t>
+<t tx="yen.20161016010643.2"></t>
 <t tx="yen.20161016010719.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -842,12 +851,7 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="yen.20161016012922.1">## 學員自評項目
-
-* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
-* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
-* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
-* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="yen.20161016012922.1"></t>
 <t tx="yen.20161016023122.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
