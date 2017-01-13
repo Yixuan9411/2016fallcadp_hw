@@ -91,7 +91,7 @@
 <v t="yen.20161011145156.2" a="E"><vh>Python 基本語法</vh>
 <v t="yen.20161011145156.3"><vh>Python3 語法</vh></v>
 </v>
-<v t="yen.20161011145156.4" a="E"><vh>Python 迴圈</vh>
+<v t="yen.20161011145156.4"><vh>Python 迴圈</vh>
 <v t="yen.20161011145156.5"><vh>for 迴圈用法</vh></v>
 </v>
 <v t="yen.20161011145156.6" a="E"><vh>Python 函式</vh>
@@ -551,9 +551,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="yen.20161011145156.3">### W16
 ###Onshape繪圖練習
-
 ###繪圖資料參考:(http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)
-
 ###Onshape繪圖練習:(https://cad.onshape.com/documents?filter=created-by-me&amp;column=modifiedAt&amp;order=desc)
 </t>
 <t tx="yen.20161011145156.4">&lt;section data-markdown&gt;
