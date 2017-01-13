@@ -17,6 +17,7 @@
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
+<v t="leo.20170113152350.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
@@ -35,15 +36,15 @@
 <v t="yen.20161016004633.4" a="E"><vh>課程時段與規劃</vh>
 <v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
-<v t="yen.20161016010643.1" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
 <v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
 <v t="leo.20170113135406.1"><vh>下載可攜程式環境</vh></v>
 </v>
-<v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
+<v t="yen.20161016010719.1"><vh>學員自評項目</vh>
 <v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="yen.20161011122932.1" a="E"><vh>自學力訓練</vh>
+<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
 <v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
 <v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
 </v>
@@ -291,12 +292,12 @@ print("hello")
 ### 虎科大機械設計工程系
 ### 四設四乙 40223206 黃怡瑄
 &lt;small&gt;
-Created by [黃怡瑄](https://s40223206.github.io/2016fallcadp_hw/blog/index.html)
+Created by [黃怡瑄](blog/index.html)
 &lt;/small&gt;
 
 [作業網誌](https://s40223206.github.io/2016fallcadp_hw/#/)
 
-[Blog](https://s40223206.github.io/2016fallcadp_hw/blog/)
+[Blog](blog/)
 
 [Vimeo](https://vimeo.com/user41092742)
 
